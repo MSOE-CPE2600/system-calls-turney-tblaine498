@@ -6,7 +6,7 @@ This lab served as an introduction to system calls on the POSIX operating system
 ### Compile and run instructions
 Make clean,\
 make\
-then type ./{name_of_c_file}\
+then type ./{name_of_c_file}
 
 Note finfo.c requires a file name to be added as a command like\
 ./finfo test.txt
